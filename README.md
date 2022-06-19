@@ -13,7 +13,6 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/UGtwenty#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/UGtwenty#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yogesh-mittalll/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yogesh-mittalll/#gh-dark-mode-only)
 &nbsp;&nbsp;

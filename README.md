@@ -2,7 +2,7 @@
 
 ## I'm a Full time developer & part time gDigital-Marketer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning coding , finance
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Learn more about web3 and NFT's
 - ⚡ Lets connect if we can help each other to grow
@@ -10,9 +10,6 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/UGtwenty#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/UGtwenty#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yogesh-mittalll/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yogesh-mittalll/#gh-dark-mode-only)
 &nbsp;&nbsp;

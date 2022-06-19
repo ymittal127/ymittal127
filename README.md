@@ -1,6 +1,6 @@
 # Hey Mate, I'm Yogesh Mittal 👋 
 
-## I'm a Full time developer & part time gDigital-Marketer!!
+## I'm a Full time developer & part time Digital-Marketer!!
 
 - 🌱 I’m currently learning coding , finance
 - 👯 I’m looking to collaborate with other developer
